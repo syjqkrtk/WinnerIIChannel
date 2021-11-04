@@ -1,0 +1,1 @@
+XPR = 10.^(normrnd(XPR_mu,XPR_sigma,n_cluster,n_ray_cluster)/10);
